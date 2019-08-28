@@ -1,4 +1,4 @@
-Detector,detections,time for detections,descriptor,time for decriptor,number of matches,match time
+Detector,detections,time for detections,descriptor,time for decriptor,,number of matches,match time
 Shi-Tomasi,1370,22.1043,BRISK,1.64857,,,
 Shi-Tomasi,1301,16.9787,BRISK,2.30398,,M84,0.493294
 Shi-Tomasi,1361,16.8803,BRISK,2.32315,,M80,0.430298
